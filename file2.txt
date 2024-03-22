@@ -1,1 +1,2 @@
-文件测试2
+VSCODE 文件测试
+/* modified by liushenlu */
