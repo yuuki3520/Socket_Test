@@ -2,3 +2,4 @@ logtest1.log
 other.log
 *.exe
 .vscode
+.vs
