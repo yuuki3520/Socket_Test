@@ -1,3 +1,4 @@
 logtest1.log
 other.log
 *.exe
+.vs/
